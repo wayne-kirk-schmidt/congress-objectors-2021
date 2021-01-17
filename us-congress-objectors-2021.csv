@@ -1,128 +1,148 @@
-Congress,Name,State
-Senate,Tommy Tuberville, Alabama
-Senate,Roger Marshall, Kansas
-Senate,John Kennedy,Louisiana
-Senate,Cindy Hyde-Smith,Mississippi
-Senate,Josh Hawley,Missouri
-Senate,Ted Cruz,Texas
-House,Robert B. Aderholt,Alabama
-House,Mo Brooks,Alabama
-House,Jerry Carl,Alabama
-House,Barry Moore,Alabama
-House,Gary Palmer,Alabama
-House,Mike Rogers,Alabama
-House,Andy Biggs,Arizona
-House,Paul Gosar,Arizona
-House,Debbie Lesko,Arizona
-House,Rick Crawford,Arkansas
-House,Ken Calvert,California
-House,Mike Garcia,California
-House,Darrell Issa,California
-House,Doug LaMalfa,California
-House,Kevin McCarthy,California
-House,Devin Nunes,California
-House,Jay Obernolte,California
-House,Lauren Boebert,Colorado
-House,Doug Lamborn,Colorado
-House,Kat Cammack,Florida
-House,Mario Diaz-Balart,Florida
-House,Byron Donalds,Florida
-House,Neal Dunn,Florida
-House,Scott Franklin,Florida
-House,Matt Gaetz,Florida
-House,Carlos Gimenez,Florida
-House,Brian Mast,Florida
-House,Bill Posey,Florida
-House,John Rutherford,Florida
-House,Greg Steube,Florida
-House,Daniel Webster,Florida
-House,Rick Allen,Georgia
-House,"Earl L. ""Buddy"" Carter",Georgia
-House,Andrew Clyde,Georgia
-House,Marjorie Taylor Greene,Georgia
-House,Jody Hice,Georgia
-House,Barry Loudermilk,Georgia
-House,Russ Fulcher,Idaho
-House,Mike Bost,Illinois
-House,Mary Miller,Illinois
-House,Jim Baird,Indiana
-House,Jim Banks,Indiana
-House,Jackie Walorski,Indiana
-House,Ron Estes,Kansas
-House,Jacob LaTurner,Kansas
-House,Tracey Mann,Kansas
-House,Harold Rogers,Kentucky
-House,Clay Higgins,Louisiana
-House,Mike Johnson,Louisiana
-House,Steve Scalise,Louisiana
-House,Andy Harris,Maryland
-House,Jack Bergman,Michigan
-House,Lisa McClain,Michigan
-House,Tim Walberg,Michigan
-House,Michelle Fischbach,Minnisota
-House,Jim Hagedorn,Minnisota
-House,Michael Guest,Mississippi
-House,Trent Kelly,Mississippi
-House,Steven Palazzo,Mississippi
-House,Sam Graves,Missouri
-House,Vicky Hartzler,Missouri
-House,Billy Long,Missouri
-House,Blaine Luetkemeyer,Missouri
-House,Jason Smith,Missouri
-House,Matt Rosendale,Montana
-House,Dan Bishop,North Carolina
-House,Ted Budd,North Carolina
-House,Madison Cawthorn,North Carolina
-House,Richard Hudson,North Carolina
-House,David Rouzer,North Carolina
-House,Jeff Van Drew,New Jersey
-House,Yvette Herrell,New Mexico
-House,Chris Jacobs,New York
-House,Nicole Malliotakis,New York
-House,Lee Zeldin,New York
-House,Adrian Smith,Nebraska
-House,Warren Davidson,Ohio
-House,Bob Gibbs,Ohio
-House,Bill Johnson,Ohio
-House,Jim Jordan,Ohio
-House,Stephanie Bice,Oklahoma
-House,Tom Cole,Oklahoma
-House,Kevin Hern,Oklahoma
-House,Frank Lucas,Oklahoma
-House,Markwayne Mullin,Oklahoma
-House,John Joyce,Pennsylvania
-House,Mike Kelly,Pennsylvania
-House,Scott Perry,Pennsylvania
-House,Guy Reschenthaler,Pennsylvania
-House,Jeff Duncan,South California
-House,Ralph Norman,South California
-House,Tom Rice,South California
-House,William Timmons,South California
-House,Joe Wilson,South California
-House,Tim Burchett,Tennessee
-House,Scott DesJarlais,Tennessee
-House,Chuck Fleischmann,Tennessee
-House,Mark E. Green,Tennessee
-House,Diana Harshbarger,Tennessee
-House,John Rose,Tennessee
-House,Jodey Arrington,Texas
-House,Brian Babin,Texas
-House,Michael C. Burgess,Texas
-House,John R. Carter,Texas
-House,Michael Cloud,Texas
-House,Pat Fallon,Texas
-House,Louie Gohmert,Texas
-House,Lance Gooden,Texas
-House,Ronny Jackson,Texas
-House,Troy Nehls,Texas
-House,August Pfluger,Texas
-House,Pete Sessions,Texas
-House,Randy Weber,Texas
-House,Roger Williams,Texas
-House,Ron Wright,Texas
-House,Ben Cline,Virginia
-House,Bob Good,Virginia
-House,Morgan Griffith,Virginia
-House,Carol Miller,West Virginia
-House,Scott Fitzgerald,Wisconsin
-House,Tom Tiffany,Wisconsin
+Branch,Name,State
+Representatives,Robert B. Aderholt,Alabama
+Representatives,Mo Brooks,Alabama
+Representatives,Jerry Carl,Alabama
+Representatives,Barry Moore,Alabama
+Representatives,Gary Palmer,Alabama
+Representatives,Mike Rogers,Alabama
+Representatives,Andy Biggs,Arizona
+Representatives,Paul Gosar,Arizona
+Representatives,Debbie Lesko,Arizona
+Representatives,David Schweikert,Arizona
+Representatives,Rick Crawford,Arkansas
+Representatives,Ken Calvert,California
+Representatives,Mike Garcia,California
+Representatives,Darrell Issa,California
+Representatives,Doug LaMalfa,California
+Representatives,Kevin McCarthy,California
+Representatives,Devin Nunes,California
+Representatives,Jay Obernolte,California
+Representatives,Lauren Boebert,Colorado
+Representatives,Doug Lamborn,Colorado
+Representatives,Kat Cammack,Florida
+Representatives,Mario Diaz-Balart,Florida
+Representatives,Byron Donalds,Florida
+Representatives,Neal Dunn,Florida
+Representatives,Scott Franklin,Florida
+Representatives,Matt Gaetz,Florida
+Representatives,Carlos Gimenez,Florida
+Representatives,Brian Mast,Florida
+Representatives,Bill Posey,Florida
+Representatives,John Rutherford,Florida
+Representatives,Greg Steube,Florida
+Representatives,Daniel Webster,Florida
+Representatives,Rick Allen,Georgia
+Representatives,"Earl L. ""Buddy"" Carter",Georgia
+Representatives,Andrew Clyde,Georgia
+Representatives,Marjorie Taylor Greene,Georgia
+Representatives,Jody Hice,Georgia
+Representatives,Barry Loudermilk,Georgia
+Representatives,Russ Fulcher,Idaho
+Representatives,Mike Bost,Illinois
+Representatives,Mary Miller,Illinois
+Representatives,Jim Baird,Indiana
+Representatives,Jim Banks,Indiana
+Representatives,Greg Pence,Indiana
+Representatives,Jackie Walorski,Indiana
+Representatives,Ron Estes,Kansas
+Representatives,Jacob LaTurner,Kansas
+Representatives,Tracey Mann,Kansas
+Representatives,Harold Rogers,Kentucky
+Representatives,Garret Graves,Louisiana
+Representatives,Clay Higgins,Louisiana
+Representatives,Mike Johnson,Louisiana
+Representatives,Steve Scalise,Louisiana
+Representatives,Andy Harris,Maryland
+Representatives,Jack Bergman,Michigan
+Representatives,Lisa McClain,Michigan
+Representatives,Tim Walberg,Michigan
+Representatives,Michelle Fischbach,Minnesota
+Representatives,Jim Hagedorn,Minnesota
+Representatives,Michael Guest,Mississippi
+Representatives,Trent Kelly,Mississippi
+Representatives,Steven Palazzo,Mississippi
+Representatives,Sam Graves,Missouri
+Representatives,Vicky Hartzler,Missouri
+Representatives,Billy Long,Missouri
+Representatives,Blaine Luetkemeyer,Missouri
+Representatives,Jason Smith,Missouri
+Representatives,Matt Rosendale,Montana
+Representatives,Dan Bishop,North_Carolina
+Representatives,Ted Budd,North_Carolina
+Representatives,Madison Cawthorn,North_Carolina
+Representatives,Virginia Foxx,North_Carolina
+Representatives,Richard Hudson,North_Carolina
+Representatives,Gregory F. Murphy,North_Carolina
+Representatives,David Rouzer,North_Carolina
+Representatives,Jeff Van Drew,New_Jersey
+Representatives,Yvette Herrell,New_Mexico
+Representatives,Chris Jacobs,New_York
+Representatives,Nicole Malliotakis,New_York
+Representatives,Elise M. Stefanik,New_York
+Representatives,Lee Zeldin,New_York
+Representatives,Adrian Smith,Nebraska
+Representatives,Steve Chabot,Ohio
+Representatives,Warren Davidson,Ohio
+Representatives,Bob Gibbs,Ohio
+Representatives,Bill Johnson,Ohio
+Representatives,Jim Jordan,Ohio
+Representatives,Stephanie Bice,Oklahoma
+Representatives,Tom Cole,Oklahoma
+Representatives,Kevin Hern,Oklahoma
+Representatives,Frank Lucas,Oklahoma
+Representatives,Markwayne Mullin,Oklahoma
+Representatives,Cliff Bentz,Oregon
+Representatives,John Joyce,Pennsylvania
+Representatives,Fred Keller,Pennsylvania
+Representatives,Mike Kelly,Pennsylvania
+Representatives,Daniel Meuser,Pennsylvania
+Representatives,Scott Perry,Pennsylvania
+Representatives,Guy Reschenthaler,Pennsylvania
+Representatives,Lloyd Smucker,Pennsylvania
+Representatives,Glenn Thompson,Pennsylvania
+Representatives,Jeff Duncan,South_Carolina
+Representatives,Ralph Norman,South_Carolina
+Representatives,Tom Rice,South_Carolina
+Representatives,William Timmons,South_Carolina
+Representatives,Joe Wilson,South_Carolina
+Representatives,Tim Burchett,Tennessee
+Representatives,Scott DesJarlais,Tennessee
+Representatives,Chuck Fleischmann,Tennessee
+Representatives,Mark E. Green,Tennessee
+Representatives,Diana Harshbarger,Tennessee
+Representatives,David Kustoff,Tennessee
+Representatives,John Rose,Tennessee
+Representatives,Jodey Arrington,Texas
+Representatives,Brian Babin,Texas
+Representatives,Michael C. Burgess,Texas
+Representatives,John R. Carter,Texas
+Representatives,Michael Cloud,Texas
+Representatives,Pat Fallon,Texas
+Representatives,Louie Gohmert,Texas
+Representatives,Lance Gooden,Texas
+Representatives,Ronny Jackson,Texas
+Representatives,Troy Nehls,Texas
+Representatives,August Pfluger,Texas
+Representatives,Pete Sessions,Texas
+Representatives,Beth Van Duyne,Texas
+Representatives,Randy Weber,Texas
+Representatives,Roger Williams,Texas
+Representatives,Ron Wright,Texas
+Representatives,Burgess Owens,Utah
+Representatives,Chris Stewart,Utah
+Representatives,Ben Cline,Virginia
+Representatives,Bob Good,Virginia
+Representatives,Morgan Griffith,Virginia
+Representatives,Robert J. Wittman,Virginia
+Representatives,Carol Miller,West_Virginia
+Representatives,Alexander X. Mooney,West_Virginia
+Representatives,Scott Fitzgerald,Wisconsin
+Representatives,Tom Tiffany,Wisconsin
+Congress,Tommy Tuberville,Alabama
+Congress,Rick Scott,Florida
+Congress,Roger Marshall,Kansas
+Congress,John Kennedy,Louisiana
+Congress,Cindy Hyde-Smith,Mississippi
+Congress,Josh Hawley,Missouri
+Congress,Ted Cruz,Texas
+Congress,Cynthia Lummis,Wyoming
